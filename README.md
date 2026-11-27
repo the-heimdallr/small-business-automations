@@ -18,7 +18,7 @@ All data in this repository is fictional sample data.
 | [recipe-costing](recipe-costing/) | Not knowing the real cost of each cake or meal | ✅ Ready |
 | [price-list-updater](price-list-updater/) | Updating every price by hand after a supplier increase | ✅ Ready |
 | [installment-tracker](installment-tracker/) | Losing track of who owes what in installment sales | ✅ Ready |
-| pdf-quotes | Messy quotes typed in a chat message | In progress |
-| weekly-sales-summary | Not knowing how the week went without doing the math | In progress |
+| [pdf-quotes](pdf-quotes/) | Messy quotes typed in a chat message | ✅ Ready |
+| [weekly-sales-summary](weekly-sales-summary/) | Not knowing how the week went without doing the math | ✅ Ready |
 
 Built by [Javier Velazquez](https://github.com/the-heimdallr) · MIT License

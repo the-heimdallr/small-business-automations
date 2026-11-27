@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body {
+    background: #0d1117;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #c9d1d9;
+    padding: 20px;
+    margin: 0;
+  }
+  .title { font-size: 16px; font-weight: bold; margin-bottom: 12px; color: #f0f6fc; }
+  table { width: 100%; border-collapse: collapse; background: #161b22; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; }
+  th, td { padding: 9px 12px; text-align: left; font-size: 13px; border-bottom: 1px solid #30363d; }
+  th { background: #21262d; color: #f0f6fc; font-size: 11px; text-transform: uppercase; }
+  tr:last-child td { border-bottom: none; }
+  td.num { text-align: right; }
+</style>
+</head>
+<body>
+  <div class="title">📄 sample_data/sales.csv (Registro Diario de Ventas)</div>
+  <table>
+    <thead>
+      <tr>
+        <th>Fecha</th>
+        <th>Ticket</th>
+        <th>Servicio / Producto</th>
+        <th>Rubro</th>
+        <th class="num">Cant.</th>
+        <th class="num">Precio</th>
+        <th>Medio Pago</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>2026-12-14</td><td>T-501</td><td><strong>Corte & Brushing</strong></td><td>Peluquería</td><td class="num">1</td><td class="num">$12.000</td><td>MercadoPago</td></tr>
+      <tr><td>2026-12-14</td><td>T-502</td><td><strong>Esmaltado Semipermanente</strong></td><td>Uñas</td><td class="num">1</td><td class="num">$9.500</td><td>Efectivo</td></tr>
+      <tr><td>2026-12-15</td><td>T-503</td><td><strong>Nutrición Capilar Botox</strong></td><td>Peluquería</td><td class="num">1</td><td class="num">$18.000</td><td>Transferencia</td></tr>
+      <tr><td>2026-12-15</td><td>T-504</td><td><strong>Esmaltado Semipermanente</strong></td><td>Uñas</td><td class="num">2</td><td class="num">$9.500</td><td>MercadoPago</td></tr>
+      <tr><td>2026-12-16</td><td>T-505</td><td><strong>Corte & Brushing</strong></td><td>Peluquería</td><td class="num">1</td><td class="num">$12.000</td><td>Efectivo</td></tr>
+      <tr><td>2026-12-17</td><td>T-506</td><td><strong>Lifting de Pestañas</strong></td><td>Estética</td><td class="num">1</td><td class="num">$11.000</td><td>Transferencia</td></tr>
+    </tbody>
+  </table>
+</body>
+</html>

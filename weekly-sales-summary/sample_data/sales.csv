@@ -1,0 +1,12 @@
+date,ticket_id,product,category,quantity,price_unit,payment_method
+2026-12-14,T-501,Corte & Brushing,Peluquería,1,12000,MercadoPago
+2026-12-14,T-502,Esmaltado Semipermanente,Uñas,1,9500,Efectivo
+2026-12-15,T-503,Nutrición Capilar Botox,Peluquería,1,18000,Transferencia
+2026-12-15,T-504,Esmaltado Semipermanente,Uñas,2,9500,MercadoPago
+2026-12-16,T-505,Corte & Brushing,Peluquería,1,12000,Efectivo
+2026-12-17,T-506,Lifting de Pestañas,Estética,1,11000,Transferencia
+2026-12-18,T-507,Corte & Brushing,Peluquería,2,12000,MercadoPago
+2026-12-18,T-508,Esmaltado Semipermanente,Uñas,1,9500,Efectivo
+2026-12-19,T-509,Perfilado de Cejas,Estética,2,5500,Efectivo
+2026-12-19,T-510,Nutrición Capilar Botox,Peluquería,1,18000,MercadoPago
+2026-12-20,T-511,Corte & Brushing,Peluquería,3,12000,Efectivo
