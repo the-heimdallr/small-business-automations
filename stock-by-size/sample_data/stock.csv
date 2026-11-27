@@ -1,0 +1,20 @@
+supplier,product,color,size,stock,min_stock
+Tejidos del Norte,Remera Lisa Algodón,Negro,S,5,3
+Tejidos del Norte,Remera Lisa Algodón,Negro,M,2,4
+Tejidos del Norte,Remera Lisa Algodón,Negro,L,0,3
+Tejidos del Norte,Remera Lisa Algodón,Blanco,S,4,3
+Tejidos del Norte,Remera Lisa Algodón,Blanco,M,1,4
+Tejidos del Norte,Remera Lisa Algodón,Blanco,L,3,3
+Tejidos del Norte,Remera Lisa Algodón,Gris Melange,M,0,2
+Confecciones Litoral,Pantalón Lino Rústico,Beige,38,1,3
+Confecciones Litoral,Pantalón Lino Rústico,Beige,40,4,3
+Confecciones Litoral,Pantalón Lino Rústico,Beige,42,0,2
+Confecciones Litoral,Pantalón Lino Rústico,Negro,38,3,3
+Confecciones Litoral,Pantalón Lino Rústico,Negro,40,1,3
+Confecciones Litoral,Pantalón Lino Rústico,Negro,42,2,2
+Lencería Silueta,Conjunto Encaje Puntilla,Rojo,85,2,2
+Lencería Silueta,Conjunto Encaje Puntilla,Rojo,90,0,3
+Lencería Silueta,Conjunto Encaje Puntilla,Rojo,95,1,2
+Lencería Silueta,Conjunto Encaje Puntilla,Negro,85,3,2
+Lencería Silueta,Conjunto Encaje Puntilla,Negro,90,1,3
+Lencería Silueta,Conjunto Encaje Puntilla,Negro,95,4,2

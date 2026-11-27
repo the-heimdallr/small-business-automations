@@ -13,7 +13,7 @@ All data in this repository is fictional sample data.
 | Tool | Problem it solves | Status |
 |---|---|---|
 | [appointment-reminders](appointment-reminders/) | Clients forget their appointments and leave gaps in the schedule | ✅ Ready |
-| stock-by-size | Selling a size or color that is out of stock | In progress |
+| [stock-by-size](stock-by-size/) | Selling a size or color that is out of stock | ✅ Ready |
 | whatsapp-catalog | Sending photos and prices one by one on WhatsApp | In progress |
 | recipe-costing | Not knowing the real cost of each cake or meal | In progress |
 | price-list-updater | Updating every price by hand after a supplier increase | In progress |
