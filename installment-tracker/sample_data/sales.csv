@@ -1,0 +1,5 @@
+sale_id,date,client,phone,item,total_amount,installments_count
+V-101,2026-10-15,Mariana Gomez,+5493704000021,Vestido Fiesta Seda,45000,3
+V-102,2026-10-20,Laura Benitez,+5493704000022,Conjunto Lino & Calzado,60000,3
+V-103,2026-11-05,Patricia Duarte,+5493704000023,Campera Cuero Ecológico,75000,3
+V-104,2026-11-12,Claudia Fernandez,+5493704000024,Pack Ropa Deportiva,38000,2

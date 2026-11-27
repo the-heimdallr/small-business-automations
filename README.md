@@ -16,8 +16,8 @@ All data in this repository is fictional sample data.
 | [stock-by-size](stock-by-size/) | Selling a size or color that is out of stock | ✅ Ready |
 | [whatsapp-catalog](whatsapp-catalog/) | Sending photos and prices one by one on WhatsApp | ✅ Ready |
 | [recipe-costing](recipe-costing/) | Not knowing the real cost of each cake or meal | ✅ Ready |
-| price-list-updater | Updating every price by hand after a supplier increase | In progress |
-| installment-tracker | Losing track of who owes what in installment sales | In progress |
+| [price-list-updater](price-list-updater/) | Updating every price by hand after a supplier increase | ✅ Ready |
+| [installment-tracker](installment-tracker/) | Losing track of who owes what in installment sales | ✅ Ready |
 | pdf-quotes | Messy quotes typed in a chat message | In progress |
 | weekly-sales-summary | Not knowing how the week went without doing the math | In progress |
 
