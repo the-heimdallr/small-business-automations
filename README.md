@@ -14,8 +14,8 @@ All data in this repository is fictional sample data.
 |---|---|---|
 | [appointment-reminders](appointment-reminders/) | Clients forget their appointments and leave gaps in the schedule | ✅ Ready |
 | [stock-by-size](stock-by-size/) | Selling a size or color that is out of stock | ✅ Ready |
-| whatsapp-catalog | Sending photos and prices one by one on WhatsApp | In progress |
-| recipe-costing | Not knowing the real cost of each cake or meal | In progress |
+| [whatsapp-catalog](whatsapp-catalog/) | Sending photos and prices one by one on WhatsApp | ✅ Ready |
+| [recipe-costing](recipe-costing/) | Not knowing the real cost of each cake or meal | ✅ Ready |
 | price-list-updater | Updating every price by hand after a supplier increase | In progress |
 | installment-tracker | Losing track of who owes what in installment sales | In progress |
 | pdf-quotes | Messy quotes typed in a chat message | In progress |
